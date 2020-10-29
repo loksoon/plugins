@@ -1,3 +1,7 @@
+## 2.0.4
+
+* Add file chooser on Android
+
 ## 2.0.3
 
 * Fixes bug where scroll bars on the Android non-hybrid WebView are rendered on
